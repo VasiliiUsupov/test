@@ -1,0 +1,32 @@
+/*
+                Console.WriteLine("Введите имя вершины(0-недопустимое имя):");
+                string n1 = Console.ReadLine();
+                if (n1 == "0") { Console.WriteLine("Недопустимый ввод! Повторите попытку!"); continue; }  //проверка ввода имени
+                Node n = new Node();
+                //n.Name = n1;
+                */
+
+foreach(Node n in nodes)
+            {
+                Console.WriteLine(n.Name);
+            }
+
+for (int i = 0; i < nodes.Count; i++)
+
+for (int i = y; i < nodes.Count; i++)
+                    {
+                        if (nodes.ElementAt(i).Name == m.Name) { Console.Write(n.Weight.ElementAt(j)); j++; y++; break; }
+                        else { Console.Write("0"); y++; }
+                    }
+
+ int j = 0;
+                int y = 0;
+                foreach (Node m in n.Arc)
+                {
+                    for (int i = y; i < nodes.Count; i++)
+                    {
+                        if (nodes.ElementAt(i).Name == m.Name) { Console.Write(n.Weight.ElementAt(j)); j++; y++; break; }
+                        else { Console.Write("0"); y++; }
+                    }
+                    // Console.WriteLine();
+                }

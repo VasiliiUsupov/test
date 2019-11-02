@@ -1,0 +1,20 @@
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\bin\Debug\laba2.2.2.exe.config
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\bin\Debug\laba2.2.2.exe
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\bin\Debug\laba2.2.2.pdb
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\obj\Debug\laba2._2._2.IzolHran.resources
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\obj\Debug\laba2._2._2.Properties.Resources.resources
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.exe
+C:\Users\Егор\Desktop\лабы ЯП\С#\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.pdb
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\bin\Debug\laba2.2.2.exe.config
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\bin\Debug\laba2.2.2.exe
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\bin\Debug\laba2.2.2.pdb
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.csprojAssemblyReference.cache
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\obj\Debug\laba2._2._2.IzolHran.resources
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\obj\Debug\laba2._2._2.Properties.Resources.resources
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.csproj.GenerateResource.cache
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.csproj.CoreCompileInputs.cache
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.exe
+D:\ШАРАГА\Языки программирования\третий семак\laba2.2.2\laba2.2.2\obj\Debug\laba2.2.2.pdb

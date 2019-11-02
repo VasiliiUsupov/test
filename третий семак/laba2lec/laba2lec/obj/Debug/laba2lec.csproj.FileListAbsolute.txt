@@ -1,0 +1,6 @@
+D:\ШАРАГА\Языки программирования\третий семак\laba2lec\laba2lec\bin\Debug\laba2lec.exe
+D:\ШАРАГА\Языки программирования\третий семак\laba2lec\laba2lec\bin\Debug\laba2lec.pdb
+D:\ШАРАГА\Языки программирования\третий семак\laba2lec\laba2lec\obj\Debug\laba2lec.csprojAssemblyReference.cache
+D:\ШАРАГА\Языки программирования\третий семак\laba2lec\laba2lec\obj\Debug\laba2lec.csproj.CoreCompileInputs.cache
+D:\ШАРАГА\Языки программирования\третий семак\laba2lec\laba2lec\obj\Debug\laba2lec.exe
+D:\ШАРАГА\Языки программирования\третий семак\laba2lec\laba2lec\obj\Debug\laba2lec.pdb
